@@ -1,0 +1,17 @@
+body {
+    background-color: #111;
+    color: hotpink;
+    font-family: 'Comic Sans MS', cursive;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  h1 {
+    font-size: 2.5rem;
+  }
+  
+  marquee {
+    font-size: 1.5rem;
+    color: plum;
+  }
+  
